@@ -17,6 +17,7 @@ namespace Variables
             decimal weight = 60.5m;
 
             Console.WriteLine($"My dog's name is {dogName}, She is {dogAge}, She is {isLazy}, She Sleeps {hoursADay}, She weight {weight},");
+            Console.WriteLine("Great story!");
         }
     }
 }
